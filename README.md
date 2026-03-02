@@ -10,10 +10,11 @@ dos Deputados Federais do Brasil, utilizando T-SQL no SQL Server.
 - Formato: CSV
 
 ## Grupo
-- Membro 1
-- Membro 2
-- Membro 3
-- Membro 4
+- Bruno Ramos
+- Vinicius lima 
+- Renato amaral 
+- Pedro Henrique
+- Lucas Henrique de Oliveira
 
 ## Tecnologias
 - SQL Server / T-SQL

@@ -30,3 +30,6 @@ dos Deputados Federais do Brasil, utilizando T-SQL no SQL Server.
 - 06-seguranca → Scripts DCL
 - 07-documentacao → Dicionário de dados e manual
 - 08-dashboard → Dashboard de BI
+  
+- ## Kanban
+•⁠  ⁠ClickUp: https://app.clickup.com/9013800120/v/b/li/901308644111

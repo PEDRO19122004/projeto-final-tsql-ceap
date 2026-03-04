@@ -32,4 +32,4 @@ dos Deputados Federais do Brasil, utilizando T-SQL no SQL Server.
 - 08-dashboard → Dashboard de BI
   
 - ## Kanban
-•⁠  ⁠ClickUp: https://app.clickup.com/9013800120/v/b/li/901308644111
+•⁠  ⁠ClickUp:https://app.clickup.com/9013800120/v/l/8cm7b5r-313
